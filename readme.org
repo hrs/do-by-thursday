@@ -1,0 +1,8 @@
+#+title: Do By Thursday
+
+A weekly challenge video call.
+
+- [[./queue.org][Future challenges]]
+- [[./previous.org][Past challenges]]
+
+Legally distinct from [[https://dobyfriday.com/][Do By Friday]], which is also great.
