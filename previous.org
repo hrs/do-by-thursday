@@ -83,3 +83,4 @@ challenge or two, but I think they're /about/ right.
 - "Help" [2022-04-14]
 - Find a slug [2022-04-21]
 - Fill the queue [2022-04-28]
+- Write story: very short, probably weird [2022-05-12]
